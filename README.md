@@ -1,12 +1,5 @@
-This project is used by the Ann Arbor Selenium Meetup group.
+In this exercise, we will automate a Ruby on Rails site that was thrown up for this workshop.
 
-This project was designed to get you started with using the getting-started-with-selenium framework.
+http://github.com/ddavison/aa-selenium-site
 
-
-
-(Meetup/EventBrite info with be posted later)
-
-Organizer/Coorganizer:
-
-  - Daniel Davison (github.com/ddavison) <sircapsalot@gmail.com>
-  - Sreekumar Nair (github.com/snairpq)
+We will learn how to better utilize CSS, and Java to form well-structured test-suites, as well as implementing it into a Continuous Integration (we will be using Jenkins).
